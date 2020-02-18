@@ -1,2 +1,2 @@
 # Public-API
-omdbapi
+Penggunaan omdbapi
